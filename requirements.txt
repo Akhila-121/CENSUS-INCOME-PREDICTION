@@ -1,1 +1,5 @@
 matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
